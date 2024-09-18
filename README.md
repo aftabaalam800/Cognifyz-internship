@@ -1,7 +1,7 @@
 # Data Analyst Internship at Cognifyz
 
 ## Overview
-This repository contains the projects and analyses I completed during my Data Analysis internship at Cognifyz Technologies from [Start Date] to [End Date]. Cognifyz is a leading technology company specializing in data science, artificial intelligence (AI), machine learning (ML), and data analytics tools. Throughout my internship, I focused on applying data-driven insights to enhance business solutions.
+This repository contains the projects and analyses I completed during my Data Analysis internship at Cognifyz Technologies from 15-09-2024 to 15-10-2024. Cognifyz is a leading technology company specializing in data science, artificial intelligence (AI), machine learning (ML), and data analytics tools. Throughout my internship, I focused on applying data-driven insights to enhance business solutions.
 
 ## Internship Highlights
 - **Company:** Cognifyz Technologies
