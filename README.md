@@ -5,7 +5,7 @@ This repository contains the projects and analyses I completed during my Data An
 
 ## Internship Highlights
 - **Company:** Cognifyz Technologies
-- **Duration:** [Start Date] to [End Date]
+- **Duration:** 15-09-2024 to 15-10-2024
 - **Role:** Data Analyst Intern
 - **Key Focus Areas:** Data analysis, visualization, and reporting
 
@@ -34,7 +34,7 @@ This repository contains the projects and analyses I completed during my Data An
 - **Geographic Analysis:**
   - Mapped restaurant locations using latitude and longitude to identify clustering patterns.
 
-- **Conclusion:**
+### Conclusion
 My internship at Cognifyz Technologies was an invaluable experience that allowed me to apply and enhance my data analysis skills in a professional setting. By engaging in various projects, I gained hands-on experience in data manipulation, visualization, and interpretation, which deepened my understanding of the practical applications of data science in business.
 
 Throughout this internship, I learned the importance of leveraging data to drive decisions and improve outcomes. I am grateful for the opportunity to work alongside talented professionals and contribute to impactful projects. This experience has further solidified my passion for data analytics and prepared me for future challenges in the field.
