@@ -34,12 +34,6 @@ This repository contains the projects and analyses I completed during my Data An
 - **Geographic Analysis:**
   - Mapped restaurant locations using latitude and longitude to identify clustering patterns.
 
-### Conclusion
-My internship at Cognifyz Technologies was an invaluable experience that allowed me to apply and enhance my data analysis skills in a professional setting. By engaging in various projects, I gained hands-on experience in data manipulation, visualization, and interpretation, which deepened my understanding of the practical applications of data science in business.
-
-Throughout this internship, I learned the importance of leveraging data to drive decisions and improve outcomes. I am grateful for the opportunity to work alongside talented professionals and contribute to impactful projects. This experience has further solidified my passion for data analytics and prepared me for future challenges in the field.
-
-I look forward to continuing my journey in data science and applying the skills I have developed at Cognifyz to future projects.
 
 ### Level 3 Tasks
 - **Review Analysis:**
@@ -58,8 +52,9 @@ During my internship, I enhanced my skills in:
 - **Data Analysis Tools:** Proficient in Python, R, and SQL for data manipulation and analysis.
 - **Data Visualization:** Experienced in using Tableau and Matplotlib for effective data presentation.
 - **Statistical Techniques:** Applied various statistical methods to derive insights and validate findings.
-- 
-- **Conclusion:**
+-
+-
+  ## Conclusion
 
 - My internship at Cognifyz Technologies was an invaluable experience that allowed me to apply and enhance my data analysis skills in a professional setting. By engaging in various projects, I gained hands-on experience in data manipulation, visualization, and interpretation, which deepened my understanding of the practical applications of data science in business.
 
